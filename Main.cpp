@@ -1,8 +1,14 @@
 ﻿/*
 
+<<<<<<< HEAD
 Изменение в файле Main в branch master
 */
 
+=======
+Изменение в файле Main в branch upgrade
+
+*/
+>>>>>>> upgrade
 #include<vector>
 #include"IMediator.h"
 #include"Base.h"
